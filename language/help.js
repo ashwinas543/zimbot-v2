@@ -1,27 +1,16 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
-//▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
-//▮ZimBotInc SOFTWARE IS UNDER UZ COPYRIGHT
+//▮Bot SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
-//▮REPORT ABUSE OF ZimBotInc SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
+//▮REPORT ABUSE OF Bot SOFTWARE EMAIL US
+//▮cybershibumon@gmail.com
+//▮WHATSAPP US : 916282137207
 //▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-//
-//┏━━━━━━━━━━━━━━━━━━━━━━━━━
-//┃ZimBotInc SOFTWARE INCLUDES 
-//┃SOME ENCRYPTED FILES
-//┃
-//┃THANKS FOR CHOOSING ZIMBOT
-//┃THANKS TO DIKA ARDNT
-//┗━━━━━━━━━━━━━━━━━━━━━━━━━
-//
 exports.menu = (botname, pushname) => {
-	return`Haii Kak ${pushname} 🐦
+	return`Haii broh Kak ${pushname} 😲❤️
 
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
@@ -29,7 +18,7 @@ Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Ow
 
 // List
 exports.list = (pushname) => {
-	return`Hai kak ${pushname}👋, silahkan dipilih list menu dibawah ini🐦`
+	return`Hai bro ${pushname}😌, silahkan dipilih list menu dibawah ini🐦`
 }
 
 // All Menu
@@ -334,30 +323,12 @@ return`
 └───────
 
 ┌── 「 *Thanks To* 」
-├ DikaArdnt
-├ Zeeoneofc
-├ FatihArridho
-├ Sanzy
-├ Yoga
-├ RiychDwayne
-├ Rifza 
-├ Arifi Razzaq
-├ Deff
-├ Katame
-├ Yuda
+├ ⸸ꪶ𝑰𝑻𝑺  𝑴𝑬  𝑳𝑼𝑻𝑻𝑨𝑷𝑷𝑰  ⃟🇮🇳
 └───────
 `
 }
 
-// Donasi
-exports.donasi  = (ownernomer) => {
-	return`
--------「 *Donate* 」-------
-
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-Berapapun donasi kalian akan sangat berarti 👍
-Thanks!
+Hi bro no tund in other group 
 
 -------「 *Sewa & Jadi Bot* 」-------
 
@@ -374,7 +345,7 @@ Thanks!
 └───────
 
 Contact person Owner :
-wa.me/${ownernomer}
+wa.me/916282137207
 `
 }
 
@@ -746,17 +717,7 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
 ┌── 「 *Thanks To* 」
-├ DikaArdnt
-├ Zeeoneofc
-├ FatihArridho
-├ Sanzy
-├ Yoga
-├ RiychDwayne
-├ Rifza 
-├ Arifi Razzaq
-├ Deff
-├ Katame
-├ Yuda
+├ ⸸ꪶ𝑰𝑻𝑺  𝑴𝑬  𝑳𝑼𝑻𝑻𝑨𝑷𝑷𝑰  ⃟🇮🇳
 └───────
 `
 }
